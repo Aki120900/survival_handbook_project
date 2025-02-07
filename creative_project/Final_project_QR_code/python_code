@@ -1,0 +1,21 @@
+import qrcode
+
+# Replace this with your PDF file's URL
+pdf_link = "https://drive.google.com/file/d/1Pphmy-TAU9UBadCWb442aM0da7U6lhqb/view?usp=sharing"
+
+# Generate QR code
+qr = qrcode.QRCode(
+    version=1,
+    error_correction=qrcode.constants.ERROR_CORRECT_L,
+    box_size=10,
+    border=4,
+)
+qr.add_data(pdf_link)
+qr.make(fit=True)
+
+# Create and save the QR code image
+img = qr.make_image(fill="black", back_color="white")
+img.save("pdf_qr_code.png")
+
+# Show the QR code
+img.show()
