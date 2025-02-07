@@ -103,12 +103,11 @@ www.maine.gov. (n.d.). Leeches, Lakes, Maine Department of Environmental Protect
 
 ## 📂 File Structure  
 
-\`\`\`
- 📂 creative_project/  
+📂 creative_project/  
  ├── 📂 Final_project_QR_code/  
  │    ├── python_code/  
- │    ├── survival_handbook_QR_code.png  # you can scan a QR code and see the survival handbook
- │    ├── 📂 QR_codes/      # this folder contains all QR codes created for chapter mini-games 
+ │    ├── survival_handbook_QR_code.png  
+ │    ├── 📂 QR_codes/  
  │         ├── chapter_1_crossword.png  
  │         ├── chapter_2_wheel.png  
  │         ├── chapter_3_find_pair.png  
@@ -116,16 +115,15 @@ www.maine.gov. (n.d.). Leeches, Lakes, Maine Department of Environmental Protect
  │         ├── chapter_5_yes_or_no.png  
  │         ├── chapter_6_wordsearch_game.png  
  │         ├── chapter_7_puzzle_game.png  
- ├── Survival handbook documentation.pdf   
- ├── documentation_if_can't_download.pdf  # find a link for google drive 
- ├── sketchbook/  # here you can find all stages of my progress in design and development while I was making the survival sketchbook
- ├── survival_handbook_project/  # here you can find a link to google drive 
+ ├── Survival handbook documentation.pdf  
+ ├── documentation_if_can't_download.pdf  
+ ├── sketchbook/  
+ ├── survival_handbook_project/  
 
 📂 critical_response/  
  ├── Art and AI - critical response.pdf  
- ├── share_link/  # google drive link
-\`\`\`
-
+ ├── share_link/  
+ 
 ---
 
 ## How to Use the Handbook  
@@ -140,3 +138,5 @@ www.maine.gov. (n.d.). Leeches, Lakes, Maine Department of Environmental Protect
 
 The **Survival Handbook** is a **fusion of AI-generated manga, interactive game design, and survival education**. 
 By blending **artistic storytelling** with **real-world survival skills**, it provides an **engaging, accessible, and educational experience** for readers of all backgrounds.  
+
+## Find an extra link to see Survival Handbook here: https://drive.google.com/file/d/1Pphmy-TAU9UBadCWb442aM0da7U6lhqb/view?usp=sharing
