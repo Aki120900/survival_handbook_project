@@ -1,0 +1,21 @@
+import qrcode
+
+# Replace with your link
+link = "https://puzzel.org/en/wheel-of-fortune/play?p=-OIKI5bxL-ZBb3vKuJr2" # there been used different links for each QR code
+
+# Create QR code
+qr = qrcode.QRCode(
+    version=1,
+    error_correction=qrcode.constants.ERROR_CORRECT_L,
+    box_size=10,
+    border=4,
+)
+qr.add_data(link)
+qr.make(fit=True)
+
+# Generate and save the QR code image
+img = qr.make_image(fill="black", back_color="white")
+img.save("qrcode.png")
+
+# Show the QR code
+img.show()
