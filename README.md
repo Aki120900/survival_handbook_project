@@ -139,4 +139,5 @@ www.maine.gov. (n.d.). Leeches, Lakes, Maine Department of Environmental Protect
 The **Survival Handbook** is a **fusion of AI-generated manga, interactive game design, and survival education**. 
 By blending **artistic storytelling** with **real-world survival skills**, it provides an **engaging, accessible, and educational experience** for readers of all backgrounds.  
 
-## Find an extra link to see Survival Handbook here: https://drive.google.com/file/d/1Pphmy-TAU9UBadCWb442aM0da7U6lhqb/view?usp=sharing
+## Find an extra link to see Survival Handbook here: 
+https://drive.google.com/file/d/1Pphmy-TAU9UBadCWb442aM0da7U6lhqb/view?usp=sharing
