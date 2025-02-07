@@ -62,11 +62,27 @@ Each chapter introduces a survival scenario, supported by illustrations and expl
 
 The handbook is backed by **extensive research** to ensure survival techniques are **accurate and practical**:  
 
-- *Finding Your Way Without Map or Compass* – **Harold Gatty** (Traditional navigation techniques).  
-- *SAS Survival Handbook* – **John ‘Lofty’ Wiseman** (Essential survival tactics).  
-- **Maine Department of Environmental Protection** (Leech removal techniques).  
-- **Seattle Japanese Garden** (*Tomeishi* – Traditional Japanese navigation markers).  
-- **Balmers GM** (How to build a bonfire).  
+Balmersgm.com. (2025). How to build a bonfire! | Balmers GM Ltd. [online] Available at: https://www.balmersgm.com/news-offers/how-build-bonfire.
+
+Gatty, H. (2013). Finding Your Way Without Map or Compass. Courier Corporation.
+
+John "Lofty" Wiseman (2018). SAS Urban Survival Handbook. Simon and Schuster.
+
+Mangareader.to. (n.d.). Read 7 Seeds Chapter 1.1 in Japanese Online Free. [online] Available at: https://mangareader.to/read/7-seeds-289/ja/chapter-1.1.
+
+Naturecaptions.com. (2022). 7 seeds manga. [online] Available at: https://www.naturecaptions.com/statuses/1596628.html [Accessed 7 Feb. 2025].
+
+Peck, K. (2013). Yumi Tamura: Two Artbooks. [online] Mangabookshelf.com. Available at: http://soliloquyinblue.mangabookshelf.com/2013/05/24/yumi-tamura-two-artbooks/.
+
+smokeybear.com. (n.d.). Build a Campfire | Smokey Bear. [online] Available at: https://smokeybear.com/en/prevention-how-tos/campfire-safety/how-to-build-your-campfire.
+
+tamuramachi (2021). Yumi Tamura Long Interview from Da Vinci August 2020 Issue. [online] Tumblr. Available at: https://tamuramachi.tumblr.com/post/648971654794477568/yumi-tamura-long-interview-from-da-vinci-august.
+
+The, T. (2020). Seattle Japanese Garden. [online] Seattle Japanese Garden. Available at: https://www.seattlejapanesegarden.org/blog/tomeishi-stop.
+
+thefourthavenue (2022). The worlds of Yumi Tamura (Animerica Extra Vol 5 N°1, January 2002). [online] Tumblr. Available at: https://www.tumblr.com/thefourthavenue/698300572628123648/the-worlds-of-yumi-tamura-animerica-extra-vol-5.
+
+www.maine.gov. (n.d.). Leeches, Lakes, Maine Department of Environmental Protection. [online] Available at: https://www.maine.gov/dep/water/lakes/leech.html. 
 
 ---
 
