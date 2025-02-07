@@ -104,9 +104,26 @@ www.maine.gov. (n.d.). Leeches, Lakes, Maine Department of Environmental Protect
 ## 📂 File Structure  
 
 \`\`\`
-📂 Survival Handbook (Final PDF)       # Complete handbook with illustrations, text, and QR codes.
-📂 Survival Handbook Documentation.pdf # Detailed documentation of project development.
-📂 Art and AI Sketchbook.pdf           # Sketchbook documenting design iterations, research, and AI testing.
+ 📂 creative_project/  
+ ├── 📂 Final_project_QR_code/  
+ │    ├── python_code/  
+ │    ├── survival_handbook_QR_code.png  # you can scan a QR code and see the survival handbook
+ │    ├── 📂 QR_codes/      # this folder contains all QR codes created for chapter mini-games 
+ │         ├── chapter_1_crossword.png  
+ │         ├── chapter_2_wheel.png  
+ │         ├── chapter_3_find_pair.png  
+ │         ├── chapter_4_multiple_choice.png  
+ │         ├── chapter_5_yes_or_no.png  
+ │         ├── chapter_6_wordsearch_game.png  
+ │         ├── chapter_7_puzzle_game.png  
+ ├── Survival handbook documentation.pdf   
+ ├── documentation_if_can't_download.pdf  # find a link for google drive 
+ ├── sketchbook/  # here you can find all stages of my progress in design and development while I was making the survival sketchbook
+ ├── survival_handbook_project/  # here you can find a link to google drive 
+
+📂 critical_response/  
+ ├── Art and AI - critical response.pdf  
+ ├── share_link/  # google drive link
 \`\`\`
 
 ---
